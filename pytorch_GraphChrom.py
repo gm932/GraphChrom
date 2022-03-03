@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 22 14:49:35 2022
-
-@author: mirzaei.4
+GraphChrom: cancer classifier using graph neural network
 """
 
 import os
